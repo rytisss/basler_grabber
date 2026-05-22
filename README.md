@@ -24,7 +24,7 @@ During installation, choose **Developer** so the native runtime needed by `pypyl
 The cameras are configured on the `192.168.1.0/24` subnet. Set the PC's NIC that the cameras are plugged into to a static IP:
 
 - **IP address:** `192.168.1.100`
-- **Subnet mask:** `255.255.255.0`
+- **Subnet mask:** `255.255.0.0`
 - **Gateway:** leave empty
 
 Camera IPs (default):
